@@ -132,7 +132,7 @@ MIT License — feel free to fork, star ⭐, and use this project in your portfo
 
 👨‍💻 About Me
 
-Harsh Singh
+Itisha Rana 
 Data Analyst passionate about turning data into insights using Python, SQL, and Power BI.
 
 This project is part of my learning journey and portfolio development in Data Analytics.
